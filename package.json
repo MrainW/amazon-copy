@@ -1,0 +1,21 @@
+{
+  "name": "amazona",
+  "version": "1.0.0",
+  "description": "## Create Node.js Server",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd backend && npm install  && cd ../frontend && npm install && npm run build",
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrainW/amazona.git"
+  },
+  "author": "Mrain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrainW/amazona/issues"
+  },
+  "homepage": "https://github.com/MrainW/amazona#readme"
+}
