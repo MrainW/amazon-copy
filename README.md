@@ -1,5 +1,11 @@
 # MERN AMAZONA
 
+## Demo
+
+![image-20220403225853031](https://cdn.jsdelivr.net/gh/MrainW/uPic_imageHosting@main/uPic/20220403/image-20220403225853031.png)
+
+
+
 ## Technical stacks
 
 - Frontend: react, react-bootstrap, react-paypal, node.js
